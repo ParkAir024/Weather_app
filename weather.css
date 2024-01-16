@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black; 
+    color: white;
+
+main {
+    text-align: center;
+}
+
+.weather-container {
+    background-color: black;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px white;
+}
+
+.weather-container p {
+    margin: 8px 0;
+    color: white;
+}
+
+.weather-container hr {
+    border: 0;
+    height: 1px;
+    background: white;
+    margin: 15px 0;
+}
