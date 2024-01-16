@@ -62,7 +62,7 @@ searchButton.addEventListener('click', function () {
                         <p>Forecast</p>
                         <p>${forecast}</p>
                         <hr>
-                        <p>Humidity:</p>
+                        <p>Humidity</p>
                         <p>${humidity}%</p>
                     </div>
                 `;
